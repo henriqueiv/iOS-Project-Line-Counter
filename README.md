@@ -1,5 +1,5 @@
 ##Counting lines
-This is just a list of shell scripts that count the lines of each file and the total number of lines at the end.
+This is just a list of shell scripts that count the lines of each file and shows the total number of lines at the end.
 
 ####For Swift only
 ```
