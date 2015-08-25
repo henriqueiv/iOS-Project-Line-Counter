@@ -22,5 +22,19 @@ find . \( -iname \*.m -o -iname \*.mm -o -iname \*.c -o -iname \*.cc -o -iname \
 ```
 
 ##How to use
+
+####In terminal
 1. Open Terminal.app
 2. Copy, paste and run the script that fits your need.
+
+
+####On Xcode
+1. Go to your project using the "Project Navigator"
+2. Go to the desired target
+3. Go to "Build Phases"
+4. Click on the "+" sign on the left upper corner and select "New Run Script Phase"
+5. Xcode will create a new entry named "Run Script"
+6. Open this new script and paste the script
+
+![Image of Xcode with custom script]
+(http://i.imgur.com/9IKBoSi.png)
