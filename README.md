@@ -6,7 +6,7 @@ This is just a list of shell scripts that count the lines of each file and the t
 find . \( -iname \*.swift \) -exec wc -l '{}' \+
 ```
 
-####For Obj-C onlyonly
+####For Obj-C only
 ```
 find . \( -iname \*.m -o -iname \*.mm -o -iname \*.h \) -exec wc -l '{}' \+
 ```
